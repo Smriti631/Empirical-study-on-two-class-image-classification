@@ -15,3 +15,10 @@ of average RGB and average CCT achieved the lowest accuracy
 of 52.38%. CNN with Adam and Stochastic gradient descent
 optimizers showed the best performance among the considered
 eight optimizers.
+
+
+Important informations and instructions :
+
+1. This repository contains the dataset named "dataset.tar", which was originally used for performing all the experiments.
+2. While using any of the models, there are two files for one particular model, example, 
+
