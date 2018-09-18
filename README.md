@@ -19,6 +19,11 @@ eight optimizers.
 
 Important informations and instructions :
 
-1. This repository contains the dataset named "dataset.tar", which was originally used for performing all the experiments.
+1. This repository contains the dataset named "dataset.tar", which was originally used for performing all the experiments. The dataset contains images for training and testing, in seperate folders. Moreover, indoor and outdoor images also have seperate folders.
 2. While using any of the models, there are two files for one particular model, example, 
+   a. CCT_ARRAY.py 
+   b. CCT_ARRAY_Pred.py 
+where the first one is used for generating the training data and the later is used for training the model with data generated        from the first program and perform classification on test data using KNN Clasiifier.
+
+For using any of the codes, one needs to change the path of the dataset.
 
